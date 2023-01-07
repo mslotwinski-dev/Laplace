@@ -1,6 +1,5 @@
 import pygame
 import sys
-import math
 
 from modules.menu import Menu
 from modules.solar import Solar
